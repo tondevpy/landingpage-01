@@ -186,4 +186,7 @@ footer p{
     .comentarios{
         width: 250px;
     }
+    #container{
+        text-align: center;
+    }
 }
